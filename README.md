@@ -1,1 +1,1 @@
-Reset is a mobile Web App that helps reduce your stress by suggesting where to go for a mindful walk, based on current location, while selecting a playlist of mindful music or a guided meditation. It was developed on Ruby on Rails and defended as part of the final team project of Le Wagon coding bootcamp in June 2022.
+
